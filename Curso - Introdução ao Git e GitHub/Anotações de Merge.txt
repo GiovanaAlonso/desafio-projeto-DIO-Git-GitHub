@@ -1,0 +1,10 @@
+Git merge - como unir o código de branchs diferentes
+
+1. git pull da branch principal
+2. gerar uma nova branch a partir da branch principal (quando trabalhando em equipe ou em grandes projetos)
+3. trabalhar e adicionar novas funcionalidades na nova branch criada
+4. finalizar o trabalho na branch temporária e testar
+5. git checkout na branch principal
+6. git pull
+7. mergear o código da branch temporária com a principal
+8. git push da branch principal
